@@ -27,7 +27,7 @@ db = firestore.client()
 bucket = storage.bucket()
 mockup_api_url = "https://api-inference.huggingface.co/models/rohit0407rai/product-mockup-generator"
 dieline_api_url = "https://api-inference.huggingface.co/models/rohit0407rai/product-dieline-model"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer access_token"}
 API_KEY = ""
 BASE_URL = "https://api.meshy.ai/v1"
 # Global variable to store user ID
