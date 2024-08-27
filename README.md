@@ -8,7 +8,7 @@ Welcome to PackageGenius, the all-in-one solution for product packaging design, 
 - **Dieline Creation**: Automatically generate the dieline for your product packaging, ready for production.
 - **Compliance Check**: Verify that your product packaging meets relevant compliance standards with our comprehensive database.
 - **Interactive Compliance Checklist**: Keep track of your compliance status with an easy-to-use interactive checklist.
-- **2D To 3D Model**: It converts the generated model into 3d model
+- **2D To 3D Model**: It converts the generated model into 3d model so that user can get to explore the feel of the product
 
 ## Getting Started
 
